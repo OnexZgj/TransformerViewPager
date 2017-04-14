@@ -1,0 +1,3 @@
+# TransformerViewPager
+显示3张Item的viewpager的ViewPager实现方法
+自定义的一些效果图文件
