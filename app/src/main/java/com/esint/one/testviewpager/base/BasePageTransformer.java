@@ -9,7 +9,7 @@ import com.esint.one.testviewpager.transformer.NonPageTransformer;
 
 /**
  * Created by Linsa on 2017/4/14:09:32.
- * des:
+ * des:动画的基类
  */
 
 public abstract class BasePageTransformer implements ViewPager.PageTransformer {
